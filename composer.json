@@ -1,0 +1,14 @@
+{
+  "name": "drupal/demomail",
+  "type": "drupal-module",
+  "description": "How to send an email programmatically",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/demomail",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "http://drupal.org/project/issues/demomail",
+    "source": "http://cgit.drupalcode.org/demomail"
+  },
+  "require": { }
+}
